@@ -39,7 +39,7 @@ And many more...
 ### 1. Clone or Download the Repository
 
 ```bash
-cd c:\Users\ravi_jangir\Desktop\sarvam_chatbot
+cd c:\Users\psk26\sarvam_chatbot
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
